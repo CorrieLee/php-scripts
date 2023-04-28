@@ -10,6 +10,7 @@ Some useful websites for programmers.
 ## Index
 <ul>
 <li><a href="#paid-scripts-discovery">Paid Scripts Discovery</a></li>
+<li><a href="#free-scripts-discovery">FREE (Nulled) Scripts Discovery</a></li>
 </ul>
 
 ## Paid Scripts Discovery
@@ -21,3 +22,8 @@ Some useful websites for programmers.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## Free Scripts Discovery
+- [NulledOne](https://nulled.one/) 
+- [CodeList](https://codelist.cc/)
+- [nullphpscript](https://nullphpscript.com/)
